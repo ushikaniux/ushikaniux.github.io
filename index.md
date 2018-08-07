@@ -6,7 +6,7 @@
 ### ハコニワAR 
 + 概要：   
     + テーブルに物体を置くと、物体に反応して動くキャラをスマホで見ることができます。
-![ハコニワAR概要画像](https://github.com/ushikaniux/ushikaniux.github.io/blob/master/assets/img/HakoniwaAR-Image.png)
+![ハコニワAR概要画像](https://github.com/ushikaniux/ushikaniux.github.io/blob/master/assets/img/HakoniwaAR-Image.jpg)
 + [作品ページ](https://launchpad.animaapp.com/ushi-kani-ux)
 
 + [出展先：Maker Faire Tokyo 2018](http://makezine.jp/event/makers2018/m0468/)
