@@ -6,7 +6,7 @@
 ### ハコニワAR 
 + 概要：   
 テーブルに物体を置くと、物体に反応して動くキャラをスマホで見ることができます。   
-![ハコニワAR概要画像](https://github.com/ushikaniux/ushikaniux.github.io/blob/master/assets/img/HakoniwaAR-Image.jpg)
+![ハコニワAR概要画像](/assets/img/HakoniwaAR-Image.jpg)
 
 + [作品ページ](https://launchpad.animaapp.com/ushi-kani-ux)
 
